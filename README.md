@@ -11,7 +11,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 <h3>Part 1: Analyze and Explore the Climate Data</h3>
 In this section, you’ll use Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. Specifically, you’ll use SQLAlchemy ORM queries, Pandas, and Matplotlib. To do so, complete the following steps:
-<br>
+
 
 1.) Note that you’ll use the provided files (climate_starter.ipynb and hawaii.sqlite) to complete your climate analysis and data exploration.
 
@@ -48,7 +48,6 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
 <h4>Station Analysis</h4>
 1.) Design a query to calculate the total number of stations in the dataset.
-
 
 2.) Design a query to find the most-active stations (that is, the stations that have the most rows). To do so, complete the following steps:
 
@@ -107,9 +106,11 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 
 
 
-<h5>References</h5>
+<h4>References</h4>
 Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910, https://journals.ametsoc.org/view/journals/atot/29/7/jtech-d-11-00103_1.xmlLinks to an external site.
 
+<br>This project utilized ChatGPT, a language model developed by OpenAI, for generating text and answering questions. For more information about ChatGPT, visit OpenAI's ChatGPT.
+<br>
 
 
 
